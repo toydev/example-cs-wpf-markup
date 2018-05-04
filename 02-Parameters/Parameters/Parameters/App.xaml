@@ -1,7 +1,7 @@
-﻿<Application x:Class="Arguments.App"
+﻿<Application x:Class="Parameters.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Arguments"
+             xmlns:local="clr-namespace:Parameters"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
